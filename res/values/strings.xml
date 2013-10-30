@@ -1,0 +1,33 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">GoEuro Test</string>
+    <string name="loading">Waiting for webservice&#8230;</string>
+    
+    <!-- MainActivity -->
+    <string name="go_euro">GoEuro</string>
+    <string name="default_city">Berlin</string>
+    <string name="search">Search</string>
+    <string name="not_implemented">Search is not yet implemented</string>
+    
+    <!-- Dialog -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    
+    <!-- Errors -->
+    <string name="error_title_bad_request">Server error</string>
+	<string name="error_msg_bad_request">Wait and try again.</string>
+	<string name="error_title_no_internet">No connection</string>
+	<string name="error_msg_no_internet">Confir your Internet connection and try again.</string>
+	<string name="error_title_server">Server error</string>
+	<string name="error_msg_server">Sorry, a server error ocurred. Please, try again in some minutes.</string>
+	<string name="error_title_connection">Connection error</string>
+	<string name="error_msg_connection">Sorry, our servers are full. Wait a little and try again.</string>
+	<string name="error_title_unknown">Error</string>
+	<string name="error_msg_unknown">An unknown error ocurred. Try again.</string>
+	<string name="error_title_cache_generation">Servers full</string>
+	<string name="error_msg_cache_generation">Sorry for the impropriety. Please, try again in some minutes.</string>
+	<string name="error_title_no_wifi_or_gps">Location not found</string>
+    <string name="error_msg_no_wifi_or_gps">Is not possible to get yout current location. Please enable the location service through Wifi or GPS.</string>    
+</resources>

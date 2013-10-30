@@ -1,0 +1,20 @@
+<resources>
+	<style name="AppTheme" parent="android:Theme.Light"/>
+	
+	<style name="ActivityDialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+	</style>
+	
+	<style name="GoEuroTextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">@string/go_euro</item>
+    </style>
+</resources>
